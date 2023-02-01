@@ -1,4 +1,4 @@
-# Data-Visualization-Using-Google-Data-Studio-and-Tableau
+# Data-Visualization-Using-Google-Data-Studio-Tableau-and-Power-BI
 It is very important for a company to always display the results of processed data
 a visual dashboard that is easy for the user to read. On this occasion, I will
 displays the results of data visualization using Google Data Studio, the dataset used
